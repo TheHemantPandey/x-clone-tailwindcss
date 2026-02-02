@@ -40,9 +40,7 @@ index.html
 tailwind.config.js
 package.json
 
-
-
-.
+```
 
 📚 Learning Outcomes
 
