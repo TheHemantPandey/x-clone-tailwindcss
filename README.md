@@ -49,7 +49,7 @@ tailwind.config.js
 package.json
 
 ```
-
+---
 📚 Learning Outcomes
 
 Practical understanding of Tailwind CSS utility classes
@@ -60,10 +60,12 @@ Learned Tailwind configuration and build workflow
 
 Improved frontend UI development skills
 
+---
 ⚠️ Disclaimer
 
 This project is created only for educational purposes.
 All design credits belong to X (Twitter).
+---
 
 👨‍💻 Author
 
