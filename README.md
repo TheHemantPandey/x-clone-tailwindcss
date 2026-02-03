@@ -6,7 +6,6 @@
 https://thehemantpandey.github.io/x-clone-tailwindcss/
 
 
-
 A responsive frontend UI clone of **X (formerly Twitter)** built using **HTML and Tailwind CSS**.  
 This project was created after learning Tailwind CSS to enhance my practical understanding of utility-first CSS and modern UI layout techniques.
 
@@ -15,6 +14,17 @@ This project focuses purely on **frontend UI development**.
 It recreates the visual layout of X (Twitter) to practice building real-world interfaces using Tailwind CSS.  
 There is no backend functionality such as authentication, posting, or database integration.
 
+
+
+## 📸 Screenshots
+
+> *(Add screenshots here to improve visibility)*
+
+```md
+![Desktop View]
+![Mobile View]
+
+```
 ## ✨ Features
 - X (Twitter) style user interface
 - Responsive design for multiple screen sizes
